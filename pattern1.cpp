@@ -11,6 +11,6 @@ for(int j = 5; j >=1; j--)
     cout << "*" << " " ; // 5= 5 ; 
 
   }
-  cout << endl; //i=row , j = colmn  1 colnm = 1 , 2 , 3 , 4 , 5 // 2 loop i j i j j conlmn i j jitna chlega jitna i hoga 
+  cout << endl; //i=row , j = colmn  1 col
 }
 }
