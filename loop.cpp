@@ -2,7 +2,7 @@
 using namespace std ; 
 //write a program to find prime number or not .
 // prime number = 2 , 3 , 5 , 7 , 11, ....
-//prime number are the number that divisible only with their number .
+
 
 
 int main()
